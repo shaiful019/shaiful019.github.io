@@ -6,31 +6,24 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Junior Artificial Intelligence Engineer",
+    title: "Artificial Intelligence Engineer",
     cardImage: "assets/images/experience-page/nippzon.png",
-    place: "Zantrik, Dhaka",
-    time: "(March, 2020 - present)",
-    desp: "<li>Working on a Computer Vision desktop based application called ”Digital Garage” where my task is from collecting Licence plate data for Bangladesh perspective, annotation, augmentation and train it with YOLOv4 model to deploy and build the app using Kivy framework.</li> <li>Developed an android app named ”Digital Driver” where my task is data scrapping and train a model for arms detection from video feed using YOLOv4 and TFlite model conversion for android-end.</li> <li>Implemented a chatbot called ”Zantrik Mind” using Rasa framework.</li>",
+    place: "Dhaka, Bangladesh",
+    time: "(Feb, 2023 - present)",
+    desp: "<li> Developing and implemented a sophisticated <strong>video anomaly detection</strong> system for a prominent Japanese news TV channel. This system autonomously identifies and logs various anomalies, including sound errors, black screen incidents, freezing frames, and text errors, ensuring the highest level of broadcast quality and viewer experience.</li> <li>My task also involves utilizing a variety of advanced algorithms, including computer vision and machine learning techniques such as OCR and NLP, to accurately extract Japanese characters from the video stream.</li>",
   },
   {
-    title: "Junior Artificial Intelligence Engineer",
-    cardImage: "assets/images/experience-page/iitg.jpg",
-    place: "Zantrik, Dhaka",
-    time: "(March, 2020 - present)",
-    desp: "<li>Working on a Computer Vision desktop based application called ”Digital Garage” where my task is from collecting Licence plate data for Bangladesh perspective, annotation, augmentation and train it with YOLOv4 model to deploy and build the app using Kivy framework.</li> <li>Developed an android app named ”Digital Driver” where my task is data scrapping and train a model for arms detection from video feed using YOLOv4 and TFlite model conversion for android-end.</li> <li>Implemented a chatbot called ”Zantrik Mind” using Rasa framework.</li>",
-  },
-  {
-    title: "Junior Artificial Intelligence Engineer",
+    title: "Trainee Machine Learning Engineer",
     cardImage: "assets/images/experience-page/IITkgp.png",
-    place: "Zantrik, Dhaka",
-    time: "(March, 2020 - present)",
-    desp: "<li>Working on a Computer Vision desktop based application called ”Digital Garage” where my task is from collecting Licence plate data for Bangladesh perspective, annotation, augmentation and train it with YOLOv4 model to deploy and build the app using Kivy framework.</li> <li>Developed an android app named ”Digital Driver” where my task is data scrapping and train a model for arms detection from video feed using YOLOv4 and TFlite model conversion for android-end.</li> <li>Implemented a chatbot called ”Zantrik Mind” using Rasa framework.</li>",
+    place: "West Bengal, India",
+    time: "(Jun, 2022 - Jan, 2023)",
+    desp: "<li> 7-month long full-time training program fully funded by the Government of India and the Bangladesh Hi-Tech Park Authority (BHTPA)</li> <li>The training focused on Artificial Intelligence, Machine Learning, and Deep Learning</li>",
   },
   {
-    title: "Junior Artificial Intelligence Engineer",
+    title: "Artificial Intelligence Engineer",
     cardImage: "assets/images/experience-page/zantrik.jpeg",
-    place: "Zantrik, Dhaka",
-    time: "(March, 2020 - present)",
+    place: "Dhaka, Bangladesh",
+    time: "(Mar, 2020 - May, 2022)",
     desp: "<li>Working on a Computer Vision desktop based application called ”Digital Garage” where my task is from collecting Licence plate data for Bangladesh perspective, annotation, augmentation and train it with YOLOv4 model to deploy and build the app using Kivy framework.</li> <li>Developed an android app named ”Digital Driver” where my task is data scrapping and train a model for arms detection from video feed using YOLOv4 and TFlite model conversion for android-end.</li> <li>Implemented a chatbot called ”Zantrik Mind” using Rasa framework.</li>",
   },
   {
