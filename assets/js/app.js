@@ -111,7 +111,7 @@ let footer = $(`
         This Shaiful Islam, a dedicated professional with a background in <strong>Computer Science</strong> from Bangladesh. Currently holding the position of <strong>Artificial Intelligence Engineer</strong> at <a href="https://www.nippzon.com/" target="new">Nippzon Technologies</a>, my work centers around crafting advanced AI solutions.
         Beyond my professional commitments, I actively contribute to education by mentoring A-level students in Information and Communication Technology. I also freelance as a <strong>Machine Learning Engineer</strong>, tackling diverse data-driven challenges. 
         Characterized by self-motivation, I thrive on innovation, technology, and novel ideas. My professional focus lies in <strong>Machine Learning</strong>, with expertise in <strong>Computer Vision and Natural Language Processing</strong>.
-        I'm an enthusiastic seeker of knowledge and thrive on embracing new challenges, whether exploring different locales or immersing myself in diverse cultures. Let's connect and embark on a journey of technological exploration together.
+        I'm an enthusiastic seeker of knowledge and thrive on embracing new challenges, whether exploring different locales or immersing myself in diverse cultures.<br> Let's connect and embark on a journey of technological exploration together.
       </font>
     </p>
     
