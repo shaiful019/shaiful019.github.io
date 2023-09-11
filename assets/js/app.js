@@ -106,13 +106,17 @@ let footer = $(`
 <footer class="footer sticky-bottom"  style="background-color:#2b2a2a;">
   <div class="p-4">
     <div class="container-fluid quote-container">
-    <p class="tag">
+    <p class="tag" style="text-align: justify;">
       <font size="+2" face="Time New Roman">
         This Shaiful Islam, a dedicated professional with a background in <strong>Computer Science</strong> from Bangladesh. Currently holding the position of <strong>Artificial Intelligence Engineer</strong> at <a href="https://www.nippzon.com/" target="new">Nippzon Technologies</a>, my work centers around crafting advanced AI solutions.
         Beyond my professional commitments, I actively contribute to education by mentoring A-level students in Information and Communication Technology. I also freelance as a <strong>Machine Learning Engineer</strong>, tackling diverse data-driven challenges. 
         Characterized by self-motivation, I thrive on innovation, technology, and novel ideas. My professional focus lies in <strong>Machine Learning</strong>, with expertise in <strong>Computer Vision and Natural Language Processing</strong>.
         I'm an enthusiastic seeker of knowledge and thrive on embracing new challenges, whether exploring different locales or immersing myself in diverse cultures. Let's connect and embark on a journey of technological exploration together.
-        Sincerely,<br><br>
+        Sincerely,
+      </font>
+    </p>
+    <p class="tag">
+      <font size="+2" face="Time New Roman"> 
         🛠️ Shaiful Islam 🤖
       </font>
     </p>
