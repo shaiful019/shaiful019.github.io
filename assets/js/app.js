@@ -106,20 +106,21 @@ let footer = $(`
 <footer class="footer sticky-bottom"  style="background-color:#2b2a2a;">
   <div class="p-4">
     <div class="container-fluid quote-container">
-
     <p class="tag">
       <font size="+2" face="Time New Roman">
-        I'm Shaiful Islam, a <strong>CS graduate</strong> from Bangladesh with a <strong>passion for AI</strong>. Currently, working as an <strong>AI Engineer</strong> at <a href="https://www.nippzon.com/" target="new">Nippzon Technologies</a>. 🤖✨<br><br>
-        I also <strong>mentor A-level students</strong> and work as a <strong>Freelance ML engineer</strong>. 💡📚<br><br>
-        I'm <strong>driven by innovation</strong>, particularly in <strong>Machine Learning</strong>, with a focus on <strong>Computer Vision and NLP</strong>. 🌟📊🗣️<br><br>
-        Let's connect and explore the exciting world of technology together! 🤝🌐<br><br>
-        ~Shaiful Islam 🌟
-        <br><br><br>
+        This Shaiful Islam, a dedicated professional with a background in <strong>Computer Science</strong> from Bangladesh. Currently holding the position of <strong>Artificial Intelligence Engineer</strong> at <a href="https://www.nippzon.com/" target="new">Nippzon Technologies</a>, my work centers around crafting advanced AI solutions.
+        Beyond my professional commitments, I actively contribute to education by mentoring A-level students in Information and Communication Technology. I also freelance as a <strong>Machine Learning Engineer</strong>, tackling diverse data-driven challenges. 
+        Characterized by self-motivation, I thrive on innovation, technology, and novel ideas. My professional focus lies in <strong>Machine Learning</strong>, with expertise in <strong>Computer Vision and Natural Language Processing</strong>.
+        I'm an enthusiastic seeker of knowledge and thrive on embracing new challenges, whether exploring different locales or immersing myself in diverse cultures. Let's connect and embark on a journey of technological exploration together.
+        Sincerely,<br><br>
+        🛠️ Shaiful Islam 🤖
       </font>
     </p>
 
+    
+
     </div>
-     
+
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0 justify-content-center">
