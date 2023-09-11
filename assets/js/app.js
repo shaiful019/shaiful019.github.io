@@ -106,14 +106,20 @@ let footer = $(`
 <footer class="footer sticky-bottom"  style="background-color:#2b2a2a;">
   <div class="p-4">
     <div class="container-fluid quote-container">
-      <div class="quotes"    style="text-align:center;">
-      <!--SVG code for quote-left icon-->
-      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1.5em" height="1.5em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M7 21a4 4 0 0 1-4-4c0-1.473 1.333-6.14 4-14h2L7 13a4 4 0 1 1 0 8zm10 0a4 4 0 0 1-4-4c0-1.473 1.333-6.14 4-14h2l-2 10a4 4 0 1 1 0 8z" fill="#fff" fill-rule="evenodd"/></svg>
-      </div>
-      <p class="tag"><font size="+2" face="Time New Roman">Highly appreciate for investing your humble time in my portfolio site. This is Shaiful Islam, Bangladeshi by born, a CS graduate. Professionally a Junior Artificial Intelligence Engineer serving at <a href="https://www.zantrik.com/" target="new">Zantrik</a> (a Transparent and Convenient vehicle maintenance platform developed with Process Innovation, Technology, and Artificial Intelligence). In parallel, mentoring in ICT to hundreds of A-level students both privately in person and remotely. I define myself as a self-motivated individual who loves to work with innovation, Technology, and new ideas. Very passionate about Data Science and Machine learning. My current areas of interest and exploration are Computer Vision and Natural Language Processing. Always seek new knowledge and challenges. Love to explore different places and cultures.</font><br><br> ~Shaiful Islam</p>
-    </div>
 
-    
+    <p class="tag">
+      <font size="+2" face="Time New Roman">
+        I'm Shaiful Islam, a <strong>CS graduate</strong> from Bangladesh with a <strong>passion for AI</strong>. Currently, working as an <strong>AI Engineer</strong> at <a href="https://www.nippzon.com/" target="new">Nippzon Technologies</a>. 🤖✨<br><br>
+        I also <strong>mentor A-level students</strong> and work as a <strong>Freelance ML engineer</strong>. 💡📚<br><br>
+        I'm <strong>driven by innovation</strong>, particularly in <strong>Machine Learning</strong>, with a focus on <strong>Computer Vision and NLP</strong>. 🌟📊🗣️<br><br>
+        Let's connect and explore the exciting world of technology together! 🤝🌐<br><br>
+        ~Shaiful Islam 🌟
+        <br><br><br>
+      </font>
+    </p>
+
+    </div>
+     
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0 justify-content-center">
