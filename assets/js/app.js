@@ -243,10 +243,6 @@ $(function () {
 
 //function to remove underline on hover
 
-document.getElementById('calendly-button').addEventListener('click', function(e) {
-  e.preventDefault();
-  Calendly.showPopupWidget('https://calendly.com/shaiful019/30min');
-});
 
 
 $(document).ready(function () {
