@@ -227,7 +227,7 @@ $(function () {
 
 let loader = document.querySelector(".loader-container");
 
-// window.addEventListener("load", vanish);
+window.addEventListener("load", vanish);
 
 
 function vanish() {
