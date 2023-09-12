@@ -14,11 +14,11 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Chess Engine",
+    title: "Digital Garage",
     cardImage: "assets/images/project-page/chess.jpg",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
+    Previewlink: "https://player.vimeo.com/video/863399736",
     Githublink: "",
   },
   {

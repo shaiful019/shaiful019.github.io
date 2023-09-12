@@ -227,7 +227,8 @@ $(function () {
 
 let loader = document.querySelector(".loader-container");
 
-window.addEventListener("load", vanish);
+// window.addEventListener("load", vanish);
+
 
 function vanish() {
   loader.classList.add("disappear");
@@ -241,6 +242,12 @@ $(function () {
 });
 
 //function to remove underline on hover
+
+document.getElementById('calendly-button').addEventListener('click', function(e) {
+  e.preventDefault();
+  Calendly.showPopupWidget('https://calendly.com/shaiful019/30min');
+});
+
 
 $(document).ready(function () {
   $("a.nav-link").hover(

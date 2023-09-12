@@ -50,6 +50,26 @@ body{
   width: 100%;
 }
 
+#calendly-button {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #ffffff;
+  background-color: #3d506b; /* Matches Calendly's color */
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+  margin-left: 10px; /* Space it a bit from the previous link */
+}
+
+#calendly-button:hover {
+  background-color: #0052cc; /* Slightly darker shade for hover effect */
+}
+
+
+
 .section {
   background-color: rgb(63, 25, 170);
   justify-content: center;
