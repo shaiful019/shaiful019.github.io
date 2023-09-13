@@ -8,7 +8,7 @@ const projects = [
   {
     title: "AI preview System",
     cardImage: "assets/images/project-page/ai_preview.png",
-    description: "A Video Analysis System for a prominent Japanese news TV channel. This system autonomously identifies and logs various anomalies, including sound errors, black screen incidents, freezing frames, and text errors, ensuring the highest level of broadcast quality and viewer experience.",
+    description: "A Video Analysis System for a prominent Japanese news TV channel. It autonomously identifies and logs various anomalies, including sound errors, black screen incidents, freezing frames, and text errors, ensuring the highest level of broadcast quality.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
@@ -16,7 +16,7 @@ const projects = [
   {
     title: "Digital Garage",
     cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
+    description: "A desktop application offers streamlined parking solutions for vehicles in Bangladesh. Using Computer Vision, it captures license plate details upon entry, storing them in AWS. At exit, it automatically calculates stay duration and generates a bill.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://player.vimeo.com/video/863399736",
     Githublink: "",
