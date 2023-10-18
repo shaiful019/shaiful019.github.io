@@ -18,7 +18,7 @@ const projects = [
     cardImage: "assets/images/project-page/digital_garage.jpg",
     description: "A desktop application offers streamlined parking solutions for vehicles in Bangladesh. Using Computer Vision, it captures license plate details upon entry, storing them in AWS. At exit, it automatically calculates stay duration and generates a bill.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://player.vimeo.com/video/863399736",
+    Previewlink: "https://player.vimeo.com/video/875516095",
     Githublink: "",
   },
   {
