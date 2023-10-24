@@ -22,6 +22,14 @@ const projects = [
     Githublink: "",
   },
   {
+    title: "Gas Meter Detection",
+    cardImage: "assets/images/project-page/gas_meter.jpg",
+    description: "Gas meter reading for Germen Gas Meter.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "https://player.vimeo.com/video/877437440",
+    Githublink: "",
+  },
+  {
     title: "KUTUM KORAI RESTARURANT",
     cardImage: "assets/images/project-page/kkr.png",
     description: "A desktop-based software using Java that will provide the user with the facility of ordering foods and drinks along with the number of food taken as well as the total cost of the order.",
