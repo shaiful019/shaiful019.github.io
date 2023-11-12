@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/nippzon.png",
     place: "Nippzon Technologies, Dhaka, Bangladesh",
     time: "(Feb, 2023 - present)",
-    desp: "<li> Developing and implemented a sophisticated <strong>video anomaly detection</strong> system for a prominent Japanese news TV channel. This system autonomously identifies and logs various anomalies, including sound errors, black screen incidents, freezing frames, and text errors, ensuring the highest level of broadcast quality and viewer experience.</li> <li>My task also involves utilizing a variety of advanced algorithms, including computer vision and machine learning techniques such as OCR and NLP, to accurately extract Japanese characters from the video stream.</li>",
+    desp: "<li> Developing and implementing a sophisticated <strong>video anomaly detection</strong> system for a prominent Japanese news TV channel. This system autonomously identifies and logs various anomalies, including sound errors, black screen incidents, freezing frames, and text errors, ensuring the highest level of broadcast quality and viewer experience.</li> <li>My task also involves utilizing a variety of advanced algorithms, including computer vision and machine learning techniques such as OCR and NLP, to accurately extract Japanese characters from the video stream.</li>",
   },
   {
     title: "Trainee Machine Learning Engineer",
