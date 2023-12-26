@@ -24,7 +24,7 @@ const exp = [
     cardImage: "assets/images/experience-page/zantrik.jpeg",
     place: "Zantrik, Dhaka, Bangladesh",
     time: "(Mar, 2020 - May, 2022)",
-    desp: "<li>Working on a Computer Vision desktop based application called ”Digital Garage” where my task is from collecting Licence plate data for Bangladesh perspective, annotation, augmentation and train it with YOLOv4 model to deploy and build the app using Kivy framework.</li> <li>Developed an android app named ”Digital Driver” where my task is data scrapping and train a model for arms detection from video feed using YOLOv4 and TFlite model conversion for android-end.</li> <li>Implemented a chatbot called ”Zantrik Mind” using Rasa framework.</li>",
+    desp: "<li>As a team member, I contributed to the development of a Computer Vision desktop-based application called <b>Digital Garage</b>. My contributions are data scrapping, annotation, pre-processing,training with <b>YOLOv4</b> model and building the GUI using <b>Kivy</b> framework. Implemented a login UI using <b>Firebase, HTML, CSS, JavaScript</b>. Also worked on IP camera integration for the app.</li> <li>Worked on <b>data scrapping</b> and model training for arms detection using <b>YOLOv4</b> and TFlite conversion for an android app named <b>Digital Driver</b></li> <li>Worked on a chatbot called ”Zantrik Mind” using <b>Rasa</b> framework.</li>",
   },
   {
     title: "Trainee Data Scientist",
